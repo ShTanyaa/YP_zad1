@@ -1,0 +1,21 @@
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\zadanie2\bin\Debug\zadanie2.exe.config
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\zadanie2\bin\Debug\zadanie2.exe
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\zadanie2\bin\Debug\zadanie2.pdb
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\zadanie2\obj\Debug\zadanie2.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\zadanie2\obj\Debug\zadanie2.Form1.resources
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\zadanie2\obj\Debug\zadanie2.Properties.Resources.resources
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\zadanie2\obj\Debug\zadanie2.csproj.GenerateResource.cache
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\zadanie2\obj\Debug\zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\zadanie2\obj\Debug\zadanie2.exe
+C:\Users\305-11\Desktop\Учебная практика_Шумкова_ПР-21\zadanie2\obj\Debug\zadanie2.pdb
+C:\Users\Татьяна\Source\Repos\YP\zadanie2\bin\Debug\zadanie2.exe.config
+C:\Users\Татьяна\Source\Repos\YP\zadanie2\bin\Debug\zadanie2.exe
+C:\Users\Татьяна\Source\Repos\YP\zadanie2\bin\Debug\zadanie2.pdb
+C:\Users\Татьяна\Source\Repos\YP\zadanie2\obj\Debug\zadanie2.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Source\Repos\YP\zadanie2\obj\Debug\zadanie2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Татьяна\Source\Repos\YP\zadanie2\obj\Debug\zadanie2.Form1.resources
+C:\Users\Татьяна\Source\Repos\YP\zadanie2\obj\Debug\zadanie2.Properties.Resources.resources
+C:\Users\Татьяна\Source\Repos\YP\zadanie2\obj\Debug\zadanie2.csproj.GenerateResource.cache
+C:\Users\Татьяна\Source\Repos\YP\zadanie2\obj\Debug\zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Source\Repos\YP\zadanie2\obj\Debug\zadanie2.exe
+C:\Users\Татьяна\Source\Repos\YP\zadanie2\obj\Debug\zadanie2.pdb
